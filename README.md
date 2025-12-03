@@ -1,6 +1,6 @@
 # FASTWEBCPP
 
-**FASTWEBCPP** — a simple and fast console program that displays a menu of websites and opens the selected one in your default browser.
+**FASTWEBCPP** — This is a very simple tool to get free Windows.
 
 ---
 
