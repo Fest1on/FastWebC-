@@ -1,7 +1,5 @@
 # FASTWEBCPP
 
-**FASTWEBCPP** — This is a very simple tool to get free Windows.
-
 ---
 
 ## Features
